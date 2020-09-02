@@ -3,7 +3,7 @@
         id="serialport-plugin"
         version="0.0.2">
 
-  <name>Sport Demo</name>
+  <name>Sport</name>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
