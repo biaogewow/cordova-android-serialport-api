@@ -13,4 +13,8 @@
            console.log(err) 
         });
     
+<<<<<<< HEAD
 ### test2
+=======
+### testtesttest
+>>>>>>> test
