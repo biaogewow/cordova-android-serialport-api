@@ -13,4 +13,8 @@
            console.log(err) 
         });
     
+<<<<<<< HEAD
 ### demo demo
+=======
+### demo2
+>>>>>>> 29b1da5a8cd3a5ce9ae3e776d01bbc210f49df78
